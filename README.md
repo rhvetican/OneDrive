@@ -107,3 +107,4 @@ The [Demo](https://odi-demo.freeloop.one) of this One-Click Deploy version. | Th
 <div align="center">
     Made by <a href="https://spencerwoo.com">spencer woo</a> | Modified by <a href="https://github.com/iRedScarf">iRedScarf
 </div>
+#personal project
